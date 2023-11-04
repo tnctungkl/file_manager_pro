@@ -1,8 +1,8 @@
-import os
-import shutil
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
+import os
+import shutil
 
 
 def show_last_action(action_text, cancelled=False):
